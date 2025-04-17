@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "supportbot-moghimi",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "0f5f812d-a980-4b1b-80a0-7d49106468d5",
+      "database_name": "misty-night-ee0f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
